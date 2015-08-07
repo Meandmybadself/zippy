@@ -1,8 +1,1 @@
-{
-    "latitude": "44608000",
-    "longitude": "-106824000",
-    "zipcode": "82832",
-    "msa": "764",
-    "dma": "NULL",
-    "state": "WY"
-}
+{"latitude":44.608,"longitude":-106.824,"zipcode":"82832","msa":"764","dma":"NULL","state":"WY"}

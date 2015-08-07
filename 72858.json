@@ -1,8 +1,1 @@
-{
-    "latitude": "35234000",
-    "longitude": "-93044500",
-    "zipcode": "72858",
-    "msa": "693",
-    "dma": "NULL",
-    "state": "AR"
-}
+{"latitude":35.234,"longitude":-93.0445,"zipcode":"72858","msa":"693","dma":"NULL","state":"AR"}

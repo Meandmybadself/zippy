@@ -1,8 +1,1 @@
-{
-    "latitude": "39345000",
-    "longitude": "-80318000",
-    "zipcode": "26438",
-    "msa": "598",
-    "dma": "NULL",
-    "state": "WV"
-}
+{"latitude":39.345,"longitude":-80.318,"zipcode":"26438","msa":"598","dma":"NULL","state":"WV"}

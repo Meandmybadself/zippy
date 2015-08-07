@@ -1,8 +1,1 @@
-{
-    "latitude": "41383000",
-    "longitude": "-84630500",
-    "zipcode": "43520",
-    "msa": "547",
-    "dma": "NULL",
-    "state": "OH"
-}
+{"latitude":41.383,"longitude":-84.6305,"zipcode":"43520","msa":"547","dma":"NULL","state":"OH"}

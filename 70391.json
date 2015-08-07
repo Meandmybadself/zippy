@@ -1,8 +1,1 @@
-{
-    "latitude": "29990000",
-    "longitude": "-91055000",
-    "zipcode": "70391",
-    "msa": "716",
-    "dma": "NULL",
-    "state": "LA"
-}
+{"latitude":29.99,"longitude":-91.055,"zipcode":"70391","msa":"716","dma":"NULL","state":"LA"}

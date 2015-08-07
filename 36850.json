@@ -1,8 +1,1 @@
-{
-    "latitude": "32805000",
-    "longitude": "-85635800",
-    "zipcode": "36850",
-    "msa": "698",
-    "dma": "NULL",
-    "state": "AL"
-}
+{"latitude":32.805,"longitude":-85.6358,"zipcode":"36850","msa":"698","dma":"NULL","state":"AL"}

@@ -1,8 +1,1 @@
-{
-    "latitude": "36079000",
-    "longitude": "-88285000",
-    "zipcode": "38342",
-    "msa": "639",
-    "dma": "NULL",
-    "state": "TN"
-}
+{"latitude":36.079,"longitude":-88.285,"zipcode":"38342","msa":"639","dma":"NULL","state":"TN"}

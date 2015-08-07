@@ -1,8 +1,1 @@
-{
-    "latitude": "42035500",
-    "longitude": "-73408300",
-    "zipcode": "6079",
-    "msa": "533",
-    "dma": "NULL",
-    "state": "CT"
-}
+{"latitude":42.0355,"longitude":-73.4083,"zipcode":"06079","msa":"533","dma":"NULL","state":"CT"}

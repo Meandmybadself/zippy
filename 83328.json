@@ -1,8 +1,1 @@
-{
-    "latitude": "42562900",
-    "longitude": "-114619000",
-    "zipcode": "83328",
-    "msa": "760",
-    "dma": "NULL",
-    "state": "ID"
-}
+{"latitude":42.5629,"longitude":-114.619,"zipcode":"83328","msa":"760","dma":"NULL","state":"ID"}

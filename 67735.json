@@ -1,8 +1,1 @@
-{
-    "latitude": "39337000",
-    "longitude": "-101744000",
-    "zipcode": "67735",
-    "msa": "678",
-    "dma": "NULL",
-    "state": "KS"
-}
+{"latitude":39.337,"longitude":-101.744,"zipcode":"67735","msa":"678","dma":"NULL","state":"KS"}

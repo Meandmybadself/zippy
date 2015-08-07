@@ -1,8 +1,1 @@
-{
-    "latitude": "40238300",
-    "longitude": "-78529000",
-    "zipcode": "16655",
-    "msa": "574",
-    "dma": "NULL",
-    "state": "PA"
-}
+{"latitude":40.2383,"longitude":-78.529,"zipcode":"16655","msa":"574","dma":"NULL","state":"PA"}

@@ -1,8 +1,1 @@
-{
-    "latitude": "37213000",
-    "longitude": "-107021000",
-    "zipcode": "81147",
-    "msa": "790",
-    "dma": "NULL",
-    "state": "CO"
-}
+{"latitude":37.213,"longitude":-107.021,"zipcode":"81147","msa":"790","dma":"NULL","state":"CO"}

@@ -1,8 +1,1 @@
-{
-    "latitude": "38900000",
-    "longitude": "-119722000",
-    "zipcode": "89410",
-    "msa": "811",
-    "dma": "NULL",
-    "state": "NV"
-}
+{"latitude":38.9,"longitude":-119.722,"zipcode":"89410","msa":"811","dma":"NULL","state":"NV"}

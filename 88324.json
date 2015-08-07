@@ -1,8 +1,1 @@
-{
-    "latitude": "33400000",
-    "longitude": "-105498000",
-    "zipcode": "88324",
-    "msa": "790",
-    "dma": "NULL",
-    "state": "NM"
-}
+{"latitude":33.4,"longitude":-105.498,"zipcode":"88324","msa":"790","dma":"NULL","state":"NM"}

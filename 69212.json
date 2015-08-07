@@ -1,8 +1,1 @@
-{
-    "latitude": "42914600",
-    "longitude": "-100784000",
-    "zipcode": "69212",
-    "msa": "725",
-    "dma": "NULL",
-    "state": "NE"
-}
+{"latitude":42.9146,"longitude":-100.784,"zipcode":"69212","msa":"725","dma":"NULL","state":"NE"}

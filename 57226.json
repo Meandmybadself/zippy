@@ -1,8 +1,1 @@
-{
-    "latitude": "44777000",
-    "longitude": "-96714300",
-    "zipcode": "57226",
-    "msa": "725",
-    "dma": "NULL",
-    "state": "SD"
-}
+{"latitude":44.777,"longitude":-96.7143,"zipcode":"57226","msa":"725","dma":"NULL","state":"SD"}

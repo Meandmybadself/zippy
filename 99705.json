@@ -1,8 +1,1 @@
-{
-    "latitude": "64776000",
-    "longitude": "-147374000",
-    "zipcode": "99705",
-    "msa": "745",
-    "dma": "NULL",
-    "state": "AK"
-}
+{"latitude":64.776,"longitude":-147.374,"zipcode":"99705","msa":"745","dma":"NULL","state":"AK"}

@@ -1,8 +1,1 @@
-{
-    "latitude": "20824000",
-    "longitude": "-156921000",
-    "zipcode": "96763",
-    "msa": "744",
-    "dma": "NULL",
-    "state": "HI"
-}
+{"latitude":20.824,"longitude":-156.921,"zipcode":"96763","msa":"744","dma":"NULL","state":"HI"}

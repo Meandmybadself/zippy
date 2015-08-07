@@ -1,8 +1,1 @@
-{
-    "latitude": "42783000",
-    "longitude": "-72968100",
-    "zipcode": "5350",
-    "msa": "532",
-    "dma": "NULL",
-    "state": "VT"
-}
+{"latitude":42.783,"longitude":-72.9681,"zipcode":"05350","msa":"532","dma":"NULL","state":"VT"}

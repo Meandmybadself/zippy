@@ -1,8 +1,1 @@
-{
-    "latitude": "34858000",
-    "longitude": "-111787000",
-    "zipcode": "86340",
-    "msa": "753",
-    "dma": "NULL",
-    "state": "AZ"
-}
+{"latitude":34.858,"longitude":-111.787,"zipcode":"86340","msa":"753","dma":"NULL","state":"AZ"}

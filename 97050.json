@@ -1,8 +1,1 @@
-{
-    "latitude": "45730500",
-    "longitude": "-120650000",
-    "zipcode": "97050",
-    "msa": "820",
-    "dma": "NULL",
-    "state": "OR"
-}
+{"latitude":45.7305,"longitude":-120.65,"zipcode":"97050","msa":"820","dma":"NULL","state":"OR"}

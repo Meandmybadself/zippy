@@ -1,8 +1,1 @@
-{
-    "latitude": "33876000",
-    "longitude": "-84336100",
-    "zipcode": "30319",
-    "msa": "520",
-    "dma": "524",
-    "state": "GA"
-}
+{"latitude":33.876,"longitude":-84.3361,"zipcode":"30319","msa":"520","dma":"524","state":"GA"}

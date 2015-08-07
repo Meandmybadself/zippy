@@ -1,8 +1,1 @@
-{
-    "latitude": "40789000",
-    "longitude": "-74013400",
-    "zipcode": "7093",
-    "msa": "3640",
-    "dma": "501",
-    "state": "NJ"
-}
+{"latitude":40.789,"longitude":-74.0134,"zipcode":"07093","msa":"3640","dma":"501","state":"NJ"}

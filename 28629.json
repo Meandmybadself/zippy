@@ -1,8 +1,1 @@
-{
-    "latitude": "36345000",
-    "longitude": "-81380500",
-    "zipcode": "28629",
-    "msa": "517",
-    "dma": "NULL",
-    "state": "NC"
-}
+{"latitude":36.345,"longitude":-81.3805,"zipcode":"28629","msa":"517","dma":"NULL","state":"NC"}

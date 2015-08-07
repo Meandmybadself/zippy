@@ -1,8 +1,1 @@
-{
-    "latitude": "46742500",
-    "longitude": "-123026000",
-    "zipcode": "98544",
-    "msa": "819",
-    "dma": "NULL",
-    "state": "WA"
-}
+{"latitude":46.7425,"longitude":-123.026,"zipcode":"98544","msa":"819","dma":"NULL","state":"WA"}

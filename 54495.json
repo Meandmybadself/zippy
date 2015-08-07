@@ -1,8 +1,1 @@
-{
-    "latitude": "44399000",
-    "longitude": "-89878700",
-    "zipcode": "54495",
-    "msa": "705",
-    "dma": "NULL",
-    "state": "WI"
-}
+{"latitude":44.399,"longitude":-89.8787,"zipcode":"54495","msa":"705","dma":"NULL","state":"WI"}

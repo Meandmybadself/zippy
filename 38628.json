@@ -1,8 +1,1 @@
-{
-    "latitude": "34393000",
-    "longitude": "-90256300",
-    "zipcode": "38628",
-    "msa": "640",
-    "dma": "NULL",
-    "state": "MS"
-}
+{"latitude":34.393,"longitude":-90.2563,"zipcode":"38628","msa":"640","dma":"NULL","state":"MS"}

@@ -1,8 +1,1 @@
-{
-    "latitude": "42071000",
-    "longitude": "-71477200",
-    "zipcode": "2019",
-    "msa": "506",
-    "dma": "NULL",
-    "state": "MA"
-}
+{"latitude":42.071,"longitude":-71.4772,"zipcode":"02019","msa":"506","dma":"NULL","state":"MA"}

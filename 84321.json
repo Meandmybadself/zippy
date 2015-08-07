@@ -1,8 +1,1 @@
-{
-    "latitude": "41704000",
-    "longitude": "-111770000",
-    "zipcode": "84321",
-    "msa": "770",
-    "dma": "NULL",
-    "state": "UT"
-}
+{"latitude":41.704,"longitude":-111.77,"zipcode":"84321","msa":"770","dma":"NULL","state":"UT"}

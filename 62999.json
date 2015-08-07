@@ -1,8 +1,1 @@
-{
-    "latitude": "37899000",
-    "longitude": "-89052800",
-    "zipcode": "62999",
-    "msa": "632",
-    "dma": "NULL",
-    "state": "IL"
-}
+{"latitude":37.899,"longitude":-89.0528,"zipcode":"62999","msa":"632","dma":"NULL","state":"IL"}

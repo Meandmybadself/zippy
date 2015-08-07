@@ -1,8 +1,1 @@
-{
-    "latitude": "40735200",
-    "longitude": "-122941000",
-    "zipcode": "96093",
-    "msa": "868",
-    "dma": "NULL",
-    "state": "CA"
-}
+{"latitude":40.7352,"longitude":-122.941,"zipcode":"96093","msa":"868","dma":"NULL","state":"CA"}

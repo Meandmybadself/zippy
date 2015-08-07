@@ -1,8 +1,1 @@
-{
-    "latitude": "47333300",
-    "longitude": "-102320000",
-    "zipcode": "58636",
-    "msa": "687",
-    "dma": "NULL",
-    "state": "ND"
-}
+{"latitude":47.3333,"longitude":-102.32,"zipcode":"58636","msa":"687","dma":"NULL","state":"ND"}

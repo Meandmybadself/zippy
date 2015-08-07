@@ -1,8 +1,1 @@
-{
-    "latitude": "37643000",
-    "longitude": "-78809100",
-    "zipcode": "24581",
-    "msa": "556",
-    "dma": "NULL",
-    "state": "VA"
-}
+{"latitude":37.643,"longitude":-78.8091,"zipcode":"24581","msa":"556","dma":"NULL","state":"VA"}

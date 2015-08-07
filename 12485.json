@@ -1,8 +1,1 @@
-{
-    "latitude": "42201700",
-    "longitude": "-74089400",
-    "zipcode": "12485",
-    "msa": "532",
-    "dma": "NULL",
-    "state": "NY"
-}
+{"latitude":42.2017,"longitude":-74.0894,"zipcode":"12485","msa":"532","dma":"NULL","state":"NY"}

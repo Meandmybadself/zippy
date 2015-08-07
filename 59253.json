@@ -1,8 +1,1 @@
-{
-    "latitude": "48785000",
-    "longitude": "-105793000",
-    "zipcode": "59253",
-    "msa": "687",
-    "dma": "NULL",
-    "state": "MT"
-}
+{"latitude":48.785,"longitude":-105.793,"zipcode":"59253","msa":"687","dma":"NULL","state":"MT"}

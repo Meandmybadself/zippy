@@ -1,8 +1,1 @@
-{
-    "latitude": "44105800",
-    "longitude": "-71938000",
-    "zipcode": "3785",
-    "msa": "523",
-    "dma": "NULL",
-    "state": "NH"
-}
+{"latitude":44.1058,"longitude":-71.938,"zipcode":"03785","msa":"523","dma":"NULL","state":"NH"}

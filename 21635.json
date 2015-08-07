@@ -1,8 +1,1 @@
-{
-    "latitude": "39345600",
-    "longitude": "-75843500",
-    "zipcode": "21635",
-    "msa": "512",
-    "dma": "NULL",
-    "state": "MD"
-}
+{"latitude":39.3456,"longitude":-75.8435,"zipcode":"21635","msa":"512","dma":"NULL","state":"MD"}

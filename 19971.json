@@ -1,8 +1,1 @@
-{
-    "latitude": "38712000",
-    "longitude": "-75101500",
-    "zipcode": "19971",
-    "msa": "576",
-    "dma": "NULL",
-    "state": "DE"
-}
+{"latitude":38.712,"longitude":-75.1015,"zipcode":"19971","msa":"576","dma":"NULL","state":"DE"}

@@ -1,8 +1,1 @@
-{
-    "latitude": "34993000",
-    "longitude": "-100866000",
-    "zipcode": "79226",
-    "msa": "634",
-    "dma": "NULL",
-    "state": "TX"
-}
+{"latitude":34.993,"longitude":-100.866,"zipcode":"79226","msa":"634","dma":"NULL","state":"TX"}

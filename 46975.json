@@ -1,8 +1,1 @@
-{
-    "latitude": "41072400",
-    "longitude": "-86245800",
-    "zipcode": "46975",
-    "msa": "588",
-    "dma": "NULL",
-    "state": "IN"
-}
+{"latitude":41.0724,"longitude":-86.2458,"zipcode":"46975","msa":"588","dma":"NULL","state":"IN"}

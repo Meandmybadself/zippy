@@ -1,8 +1,1 @@
-{
-    "latitude": "42038200",
-    "longitude": "-96127400",
-    "zipcode": "51040",
-    "msa": "624",
-    "dma": "NULL",
-    "state": "IA"
-}
+{"latitude":42.0382,"longitude":-96.1274,"zipcode":"51040","msa":"624","dma":"NULL","state":"IA"}

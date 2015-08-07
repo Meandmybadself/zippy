@@ -1,8 +1,1 @@
-{
-    "latitude": "37512500",
-    "longitude": "-92308000",
-    "zipcode": "65543",
-    "msa": "619",
-    "dma": "NULL",
-    "state": "MO"
-}
+{"latitude":37.5125,"longitude":-92.308,"zipcode":"65543","msa":"619","dma":"NULL","state":"MO"}

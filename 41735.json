@@ -1,8 +1,1 @@
-{
-    "latitude": "37025400",
-    "longitude": "-83086000",
-    "zipcode": "41735",
-    "msa": "541",
-    "dma": "NULL",
-    "state": "KY"
-}
+{"latitude":37.0254,"longitude":-83.086,"zipcode":"41735","msa":"541","dma":"NULL","state":"KY"}

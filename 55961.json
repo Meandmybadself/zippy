@@ -1,8 +1,1 @@
-{
-    "latitude": "43582000",
-    "longitude": "-92408300",
-    "zipcode": "55961",
-    "msa": "611",
-    "dma": "NULL",
-    "state": "MN"
-}
+{"latitude":43.582,"longitude":-92.4083,"zipcode":"55961","msa":"611","dma":"NULL","state":"MN"}

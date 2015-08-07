@@ -1,8 +1,1 @@
-{
-    "latitude": "43316000",
-    "longitude": "-85341000",
-    "zipcode": "49347",
-    "msa": "563",
-    "dma": "NULL",
-    "state": "MI"
-}
+{"latitude":43.316,"longitude":-85.341,"zipcode":"49347","msa":"563","dma":"NULL","state":"MI"}

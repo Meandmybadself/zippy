@@ -1,8 +1,1 @@
-{
-    "latitude": "27768000",
-    "longitude": "-80602800",
-    "zipcode": "32948",
-    "msa": "548",
-    "dma": "NULL",
-    "state": "FL"
-}
+{"latitude":27.768,"longitude":-80.6028,"zipcode":"32948","msa":"548","dma":"NULL","state":"FL"}
