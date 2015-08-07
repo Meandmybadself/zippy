@@ -1,11 +1,21 @@
 # zippy
-Filesystem-based zipcode-to-location web service.
+Filesystem-based zipcode-to-location web service for cities in the United States.
 
 ## Why?
 You need to quickly get a latitude/longitude from a zipcode and don't want to set up a database / Cray supercomputer.
 
 ## Example usage 
 [Location data for Niles, Ohio, 44446](https://zippy.permanentrecord.io/44446)
+
+## Return data
+A valid zipcode should return the following data:
+
+* _latitude_ - Precise to four places.
+* _longitude_ - Precised to four places.
+* _zipcode_ - The zipcode (am debating if this silly or not)
+* _msa_ - Marketing Statistic Area
+* _dma_ - Direct Marketing Area
+* _state_ - The state, as two-letters.
 
 ## Instructions for usage via hosted-service
 Access data via this hosted service (but heavily consider against using it for production sites where it's good practice to not trust a foreign web service).
